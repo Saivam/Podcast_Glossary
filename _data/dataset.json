@@ -1,0 +1,92 @@
+ [
+    {
+      "term": "Artwork",
+      "definition": "Visual content associated with a podcast, often displayed alongside episode listings in podcast directories."
+    },
+    {
+      "term": "Chapter Markers",
+      "definition": "Timestamps embedded in a podcast episode, allowing listeners to jump to specific sections or segments."
+    },
+    {
+      "term": "Download",
+      "definition": "The process of saving a podcast episode file to a local device for offline listening."
+    },
+    {
+      "term": "Episode",
+      "definition": "A single installment or edition of a podcast series, typically focused on a specific topic or theme."
+    },
+    {
+      "term": "Feed",
+      "definition": "A web feed that provides updated podcast content to subscribers. Usually in RSS (Really Simple Syndication) format."
+    },
+    {
+      "term": "Hosting Provider",
+      "definition": "A service that stores and delivers podcast media files to listeners. Commonly used to host podcast episodes and generate an RSS feed."
+    },
+    {
+      "term": "ID3 Tags",
+      "definition": "Metadata embedded in audio files, providing information such as episode title, artist, album, and cover art."
+    },
+    {
+      "term": "Libsyn",
+      "definition": "Short for Liberated Syndication, Libsyn is a popular podcast hosting service that provides media hosting and distribution."
+    },
+    {
+      "term": "Listener Feedback",
+      "definition": "Comments, questions, or reviews submitted by listeners, fostering engagement with the audience."
+    },
+    {
+      "term": "MP3",
+      "definition": "A common audio file format widely used for podcast episodes due to its compression and compatibility."
+    },
+    {
+      "term": "Monetization",
+      "definition": "The process of earning revenue from a podcast through methods such as advertising, sponsorships, and listener donations."
+    },
+    {
+      "term": "Niche",
+      "definition": "A specialized segment or topic within the broader category of podcasts. Podcasts often cater to specific niches to target a particular audience."
+    },
+    {
+      "term": "Podcast",
+      "definition": "A digital audio or video file or series of files that can be streamed or downloaded from the internet."
+    },
+    {
+      "term": "Podcatcher",
+      "definition": "A software application or device used to subscribe to, download, and manage podcasts. Also referred to as a podcast client or aggregator."
+    },
+    {
+      "term": "Q&A",
+      "definition": "Question and Answer format, where hosts answer questions submitted by listeners or audience members."
+    },
+    {
+      "term": "RSS Feed",
+      "definition": "Really Simple Syndication format used to publish frequently updated content, allowing users to subscribe to podcasts."
+    },
+    {
+      "term": "Scripted Podcast",
+      "definition": "A podcast episode with a planned and written script, often involving a narrative or storytelling format."
+    },
+    {
+      "term": "Show Notes",
+      "definition": "Information, links, or additional context provided by podcast creators in the episode description."
+    },
+    {
+      "term": "Sponsorship",
+      "definition": "A form of advertising where companies pay to have their products or services promoted during a podcast episode."
+    },
+    {
+      "term": "Streaming",
+      "definition": "Listening to a podcast episode in real-time without downloading the file, requiring an internet connection."
+    },
+    {
+      "term": "Transcript",
+      "definition": "A written version of the spoken content in a podcast episode. Transcripts can be provided to make content more accessible and searchable."
+    },
+    {
+      "term": "Vlogcast",
+      "definition": "A hybrid form of content that combines elements of video blogging (vlogging) and podcasting. Typically includes both audio and video components."
+    }
+
+  ]
+
